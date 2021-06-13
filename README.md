@@ -1,3 +1,4 @@
+Hosted at https://satyamrath.github.io/MagicNotes/
 # MagicNotes
 
 ### App to save Notes
